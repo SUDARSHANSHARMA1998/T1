@@ -1,0 +1,25 @@
+{
+	"info": {
+		"_postman_id": "4d3549b6-4c9a-4e64-8f05-bab6ee6a241d",
+		"name": "C1 changed",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_uid": "889219-4d3549b6-4c9a-4e64-8f05-bab6ee6a241d"
+	},
+	"item": [
+		{
+			"name": "New Request",
+			"id": "baab0ee6-b326-451e-969c-b402d9169a80",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": ""
+				}
+			},
+			"response": []
+		}
+	]
+}
