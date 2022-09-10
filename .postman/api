@@ -10,7 +10,6 @@ files[] = {"id":"c3c803b3-32c0-4221-82ea-4792cfcd5139","path":"latest_889219-c3c
 
 [relations.apiDefinition]
 rootDirectory = postman/schemas
-files[] = {"path":"schema.json","metaData":{}}
 
 [relations.apiDefinition.metaData]
 type = openapi:3
